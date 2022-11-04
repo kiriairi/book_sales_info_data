@@ -1881,10 +1881,10 @@
   },
   {
     "title": "史上最強の大魔王、村人Aに転生する",
-    "salesValue": 1000000,
-    "recordDate": "2022-04-29",
-    "salesDesc": "シリーズ累計100万部突破※文庫+コミックス ともに電子版含む",
-    "sourceDesc": "<a href=\"https://twitter.com/murabitoA_anime/status/1520050340200353792\">TVアニメ「史上最強の大魔王、村人Aに転生する」【公式】Twitter</a>",
+    "salesValue": 1110000,
+    "recordDate": "2022-10-01",
+    "salesDesc": "シリーズ累計111万部突破",
+    "sourceDesc": "[アニメ公式Twitter](https://twitter.com/murabitoA_anime/status/1576070510093340673)",
     "isbn": "4040726820"
   },
   {
@@ -1937,10 +1937,10 @@
   },
   {
     "title": "異世界でチート能力を手にした俺は、現実世界をも無双する　～レベルアップは人生を変えた～",
-    "salesValue": 1000000,
-    "recordDate": "2022-03-09",
-    "salesDesc": "シリーズ累計100万部突破(紙+電子)",
-    "sourceDesc": "<a href=\"https://twitter.com/fantasia_bunko/status/1501845914268274689\">コミカライズ3巻帯</a>",
+    "salesValue": 1500000,
+    "recordDate": "2022-08-28",
+    "salesDesc": "全世界シリーズ累計150万部突破",
+    "sourceDesc": "[富士見ファンタジア文庫公式Twitter](https://twitter.com/fantasia_bunko/status/1563734482829864961)",
     "isbn": "4040730232"
   },
   {
@@ -2497,10 +2497,10 @@
   },
   {
     "title": "世界の終わりの世界録",
-    "salesValue": 800000,
-    "recordDate": "2021-01-16",
-    "salesDesc": "シリーズ累計80万部突破",
-    "sourceDesc": "<a href=\"https://twitter.com/kami_to_game/status/1350405134006714368\">『神は遊戯（ゲーム）に飢えている。』公式Twitter</a>",
+    "salesValue": 1000000,
+    "recordDate": "2022-07-22",
+    "salesDesc": "シリーズ累計100万部突破",
+    "sourceDesc": "[月刊コミックアライブ公式](https://twitter.com/comic_alive/status/1550391446183653376)",
     "isbn": "4040669223"
   },
   {
@@ -3273,10 +3273,10 @@
   },
   {
     "title": "継母の連れ子が元カノだった",
-    "salesValue": 500000,
-    "recordDate": "2022-01-26",
-    "salesDesc": "シリーズ累計50万部突破(紙・電子の合計数字2021年12月現在)",
-    "sourceDesc": "<a href=\"https://twitter.com/tsurekano/status/1486268888900079620\">『継母の連れ子が元カノだった』公式Twitter</a>",
+    "salesValue": 650000,
+    "recordDate": "2022-06-24",
+    "salesDesc": "シリーズ累計65万部突破（紙本と電子書籍の合算数字）",
+    "sourceDesc": "[原作公式Twitter](https://twitter.com/tsurekano/status/1540276235867082752)",
     "isbn": "4041076846"
   },
   {
@@ -3937,10 +3937,10 @@
   },
   {
     "title": "リビルドワールド",
-    "salesValue": 350000,
-    "recordDate": "2022-04-01",
-    "salesDesc": "シリーズ累計35万部突破※紙、電子を含む",
-    "sourceDesc": "<a href=\"https://twitter.com/D_shinbungei/status/1509802746614013957\">原作6下巻帯</a>",
+    "salesValue": 400000,
+    "recordDate": "2022-06-06",
+    "salesDesc": "シリーズ累計40万部突破",
+    "sourceDesc": "[電撃の新文芸公式Twitter](https://twitter.com/D_shinbungei/status/1533735446781390856)",
     "isbn": "4049123940"
   },
   {
@@ -6102,5 +6102,13 @@
     "salesDesc": "2刷5800部突破",
     "sourceDesc": "UDリバース新刊書のご案内",
     "isbn": "4801493084"
+  },
+  {
+    "title": "私の推しは悪役令嬢。",
+    "salesValue": 200000,
+    "recordDate": "2022-06-08",
+    "salesDesc": "シリーズ累計20万部突破",
+    "sourceDesc": "[著者Twitter](https://twitter.com/inori_narou/status/1534445531803488256)",
+    "isbn": "4758023190"
   }
 ]
