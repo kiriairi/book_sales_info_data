@@ -13090,6 +13090,12 @@
         "salesDesc": "シリーズ累計10万部突破",
         "salesValue": 100000,
         "sourceDesc": "book-rank.net"
+      },
+      {
+        "salesValue": 500000,
+        "recordDate": "2021-09-07",
+        "salesDesc": "シリーズ累計50万部突破※紙本と電子書籍の合算数字となります。2021年9月現在。",
+        "sourceDesc": "<a href=\"https://twitter.com/spy_tomoshibi/status/1435165946973462530\">原作6巻帯</a>"
       }
     ],
     "reprintRecords": [
