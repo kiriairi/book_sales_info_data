@@ -289,6 +289,12 @@
         "salesDesc": "シリーズ累計870万部",
         "salesValue": 8700000,
         "sourceDesc": "book-rank.net"
+      },
+      {
+        "salesValue": 26000000,
+        "recordDate": "2020-04-24",
+        "salesDesc": "世界累計発行部数2600万部突破",
+        "sourceDesc": "株式会社KADOKAWAプレリリース(2020/4/24)"
       }
     ],
     "reprintRecords": []
@@ -5535,6 +5541,12 @@
         "salesDesc": "シリーズ累計25万部突破",
         "salesValue": 250000,
         "sourceDesc": "book-rank.net"
+      },
+      {
+        "salesValue": 1600000,
+        "recordDate": "2021-08-05",
+        "salesDesc": "シリーズ累計160万部突破※紙本と電子書籍の合算数字となります。2021年8月現在。",
+        "sourceDesc": "原作12巻帯"
       }
     ],
     "reprintRecords": []
