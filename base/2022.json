@@ -32,6 +32,14 @@
     "isbn": "4041076846"
   },
   {
+    "title": "ソードアート・オンライン",
+    "salesValue": 30000000,
+    "recordDate": "2022-07-02",
+    "salesDesc": "原作小説全世界シリーズ累計3000万部突破",
+    "sourceDesc": "Youtube[【予告】「劇場版 ソードアート・オンライン -プログレッシブ- 冥き夕闇のスケルツォ」](https://youtu.be/uQV1d_dmNZ8?t=23)",
+    "isbn": "4048677608"
+  },
+  {
     "title": "世界の終わりの世界録",
     "salesValue": 1000000,
     "recordDate": "2022-07-22",
@@ -48,6 +56,14 @@
     "isbn": "4040730232"
   },
   {
+    "title": "痛いのは嫌なので防御力に極振りしたいと思います。",
+    "salesValue": 2100000,
+    "recordDate": "2022-09-20",
+    "salesDesc": "シリーズ累計210万部突破(※電子含む）",
+    "sourceDesc": "[アニメ公式Twitterプロフィール](http://web.archive.org/web/20220923063429/https://twitter.com/bofuri_anime)、[Blu-ray BOX商品説明](https://www.amazon.co.jp/dp/B0BBLH84G8/)（日期待考）",
+    "isbn": "4040724410"
+  },
+  {
     "title": "史上最強の大魔王、村人Aに転生する",
     "salesValue": 1110000,
     "recordDate": "2022-10-01",
@@ -62,29 +78,5 @@
     "salesDesc": "シリーズ累計80万部突破",
     "sourceDesc": "ファンタジアチャンネル2022年10月（小説短編集03、本の中に挟んであるリーフレット）",
     "isbn": "4040734807"
-  },
-  {
-    "title": "ソードアート・オンライン",
-    "salesValue": 30000000,
-    "recordDate": "2022-07-02",
-    "salesDesc": "原作小説全世界シリーズ累計3000万部突破",
-    "sourceDesc": "【予告】「劇場版 ソードアート・オンライン -プログレッシブ- 冥き夕闇のスケルツォ」（2022/7/02 https://youtu.be/uQV1d_dmNZ8?t=23）",
-    "isbn": "4048677608"
-  },
-  {
-    "title": "ソードアート・オンライン",
-    "salesValue": 30000000,
-    "recordDate": "2022-07-02",
-    "salesDesc": "原作小説全世界シリーズ累計3000万部突破",
-    "sourceDesc": "【予告】「劇場版 ソードアート・オンライン -プログレッシブ- 冥き夕闇のスケルツォ」（2022/7/02 https://youtu.be/uQV1d_dmNZ8?t=23）",
-    "isbn": "4048677608"
-  },
-  {
-    "title": "痛いのは嫌なので防御力に極振りしたいと思います。",
-    "salesValue": 2100000,
-    "recordDate": "2022-09-20",
-    "salesDesc": "シリーズ累計210万部突破(※電子含む）",
-    "sourceDesc": "TVアニメ「痛いのは嫌なので防御力に極振りしたいと思います。2」Twitter（2022/9/20）",
-    "isbn": "4040724410"
   }
 ]
