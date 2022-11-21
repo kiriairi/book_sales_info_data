@@ -1,5 +1,1 @@
-*
-!*.json
-!.gitignore
-!README.md
-!images/*.jpg
+.DS_store
