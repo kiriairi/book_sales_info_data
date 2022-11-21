@@ -19,6 +19,6 @@ jobs:
   build:
           uses: Aeroblast/book_sales_info/.github/workflows/run_build_data.yml@main
           with:
-            data-path: ./
+            data_path: ./
 
 
