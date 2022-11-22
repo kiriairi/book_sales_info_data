@@ -3649,10 +3649,10 @@
   },
   {
     "title": "今夜、世界からこの恋が消えても",
-    "salesValue": 400000,
-    "recordDate": "2022-04-27",
-    "salesDesc": "累計40万部突破",
-    "sourceDesc": "<a href=\"https://twitter.com/mwbunko/status/1519134868025663488\">メディアワークス文庫Twitter</a>",
+    "salesValue": 650000,
+    "recordDate": "2022-08-22",
+    "salesDesc": "原作小説の日本、韓国、中国書籍シリーズ累計部数65万部を突破",
+    "sourceDesc": "[メディアワークス文庫公式Twitter](https://twitter.com/mwbunko/status/1561630360047235072)",
     "isbn": "404913019X"
   },
   {
@@ -6112,12 +6112,28 @@
     "isbn": "4758023190"
   },
   {
+    "title": "15歳のテロリスト",
+    "salesValue": 200000,
+    "recordDate": "2022-07-28",
+    "salesDesc": "20万部突破",
+    "sourceDesc": "[メディアワークス文庫公式Twitter](https://twitter.com/mwbunko/status/1552617365325488128)",
+    "isbn": "4049123967"
+  },
+  {
     "title": "隣のクーデレラを甘やかしたら、ウチの合鍵を渡すことになった",
     "salesValue": 100000,
     "recordDate": "2022-11-08",
     "salesDesc": "シリーズ累計10万部突破（※電子書籍含む）",
     "sourceDesc": "[電撃文庫公式Twitter](https://twitter.com/bunko_dengeki/status/1589905125749198851)",
     "isbn": "4049133822"
+  },
+  {
+    "title": "西由比ヶ浜駅の神様",
+    "salesValue": 200000,
+    "recordDate": "2022-11-20",
+    "salesDesc": "世界累計20万部突破",
+    "sourceDesc": "[メディアワークス文庫公式Twitter](https://twitter.com/mwbunko/status/1594133426273230851)",
+    "isbn": "4049127369"
   },
   {
     "title": "わたし、二番目の彼女でいいから。",
