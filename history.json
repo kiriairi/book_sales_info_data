@@ -13877,7 +13877,14 @@
   },
   {
     "isbn": "404913019X",
-    "salesRecords": [],
+    "salesRecords": [
+      {
+        "salesValue": 400000,
+        "recordDate": "2022-04-27",
+        "salesDesc": "日本、韓国、中国版書籍の合計が40万部を突破",
+        "sourceDesc": "<a href=\"https://twitter.com/mwbunko/status/1519134868025663488\">メディアワークス文庫Twitter</a>"
+      }
+    ],
     "reprintRecords": [
       {
         "recordDate": "2022-04-27",
