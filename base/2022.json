@@ -1,4 +1,12 @@
 [
+   {
+    "title": "サイレント・ウィッチ 沈黙の魔女の隠しごと",
+    "salesValue": 100000,
+    "recordDate": "2022-02-20",
+    "salesDesc": "シリーズ累計10万部突破",
+    "sourceDesc": "[『サイレント・ウィッチ』公式Twitter](https://twitter.com/the_SilentWitch/status/1495341746037080064)",
+    "isbn": "4040740351"
+  },
   {
     "title": "声優ラジオのウラオモテ",
     "salesValue": 200000,
@@ -126,5 +134,13 @@
     "salesDesc": "単巻25万部突破（紙・電子の合算）",
     "sourceDesc": "[PR TIMESニュース](https://twitter.com/PRTIMES_NEWS/status/1596052963151482880)、[電撃文庫公式Twitter](https://twitter.com/bunko_dengeki/status/1596060765718425600)",
     "isbn": "4049146185"
+  },
+  {
+    "title": "サイレント・ウィッチ 沈黙の魔女の隠しごと",
+    "salesValue": 200000,
+    "recordDate": "2022-11-26",
+    "salesDesc": "シリーズ累計20万部突破（紙・電子の合算）（2022年9月）",
+    "sourceDesc": "[『サイレント・ウィッチ』公式Twitter](https://twitter.com/the_SilentWitch/status/1596339482609225729)",
+    "isbn": "4040740351"
   }
 ]
