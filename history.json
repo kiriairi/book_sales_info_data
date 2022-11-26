@@ -18710,5 +18710,16 @@
     "isbn": "4801493084",
     "salesRecords": [],
     "reprintRecords": []
+  },
+  {
+    "isbn": "4040740351",
+    "salesRecords": [
+      {
+        "salesValue": 100000,
+        "recordDate": "2022-02-20",
+        "salesDesc": "シリーズ累計10万部突破",
+        "sourceDesc": "[『サイレント・ウィッチ』公式Twitter](https://twitter.com/the_SilentWitch/status/1495341746037080064)"
+      }
+    ]
   }
 ]
