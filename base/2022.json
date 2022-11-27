@@ -16,12 +16,28 @@
     "isbn": "4049130211"
   },
   {
+    "title": "ありふれた職業で世界最強",
+    "salesValue": 5500000,
+    "recordDate": "2022-05-25",
+    "salesDesc": "シリーズ累計550万部突破",
+    "sourceDesc": "![コミカライズ10巻帯](https://twitter.com/animateoomiya/status/1527173708271341569)",
+    "isbn": "4865540555"
+  },
+  {
     "title": "リビルドワールド",
     "salesValue": 400000,
     "recordDate": "2022-06-06",
     "salesDesc": "シリーズ累計40万部突破",
     "sourceDesc": "[電撃の新文芸公式Twitter](https://twitter.com/D_shinbungei/status/1533735446781390856)",
     "isbn": "4049123940"
+  },
+  {
+    "title": "異世界居酒屋「のぶ」",
+    "salesValue": 5000000,
+    "recordDate": "2022-06-07",
+    "salesDesc": "シリーズ累計500万部突破(※電子版含む）",
+    "sourceDesc": "[原作文庫版7巻帯](https://twitter.com/NovelNarou/status/1533994494395224064)",
+    "isbn": "4800230578"
   },
   {
     "title": "私の推しは悪役令嬢。",
@@ -48,6 +64,14 @@
     "isbn": "4041076846"
   },
   {
+    "title": "わたしの幸せな結婚",
+    "salesValue": 5000000,
+    "recordDate": "2022-07-01",
+    "salesDesc": "シリーズ累計500万部突破",
+    "sourceDesc": "[『わたしの幸せな結婚』公式Twitter](https://twitter.com/watashino_info/status/1542795642246172672)",
+    "isbn": "4040730194"
+  },
+  {
     "title": "ソードアート・オンライン",
     "salesValue": 30000000,
     "recordDate": "2022-07-02",
@@ -72,6 +96,14 @@
     "isbn": "4049123967"
   },
   {
+    "title": "デスマーチからはじまる異世界狂想曲",
+    "salesValue": 5300000,
+    "recordDate": "2022-08-09",
+    "salesDesc": "シリーズ累計530万部突破",
+    "sourceDesc": "![コミカライズ14巻帯](https://twitter.com/animatehonten/status/1556928609163481088)",
+    "isbn": "4040700848"
+  },
+  {
     "title": "今夜、世界からこの恋が消えても",
     "salesValue": 650000,
     "recordDate": "2022-08-22",
@@ -86,6 +118,14 @@
     "salesDesc": "全世界シリーズ累計150万部突破",
     "sourceDesc": "[富士見ファンタジア文庫公式Twitter](https://twitter.com/fantasia_bunko/status/1563734482829864961)",
     "isbn": "4040730232"
+  },
+  {
+    "title": "失格紋の最強賢者　～世界最強の賢者が更に強くなるために転生しました～",
+    "salesValue": 6000000,
+    "recordDate": "2022-09-12",
+    "salesDesc": "シリーズ累計600万部突破",
+    "sourceDesc": "[コミカライズ20巻帯](https://twitter.com/liver_jam/status/1569202531573825537)",
+    "isbn": "4797392363"
   },
   {
     "title": "痛いのは嫌なので防御力に極振りしたいと思います。",
@@ -128,14 +168,6 @@
     "isbn": "4864723427"
   },
   {
-    "title": "カラダ探し",
-    "salesValue": 3500000,
-    "recordDate": "2022-11-04",
-    "salesDesc": "シリーズ累計350万部突破（原作小説シリーズ累計25万部）",
-    "sourceDesc": "[【少年ジャンプ＋】公式Twitter](https://twitter.com/shonenjump_plus/status/1588334537674981376)",
-    "isbn": "4883817555"
-  },
-  {
     "title": "隣のクーデレラを甘やかしたら、ウチの合鍵を渡すことになった",
     "salesValue": 100000,
     "recordDate": "2022-11-08",
@@ -144,20 +176,20 @@
     "isbn": "4049133822"
   },
   {
+    "title": "転生賢者の異世界ライフ　～第二の職業を得て、世界最強になりました～",
+    "salesValue": 6500000,
+    "recordDate": "2022-11-11",
+    "salesDesc": "シリーズ累計650万部突破",
+    "sourceDesc": "[Friendly Land(友善文創)公式Twitter](https://twitter.com/FriendlyLand/status/1590943626561191936)",
+    "isbn": "4797396954"
+  },
+  {
     "title": "西由比ヶ浜駅の神様",
     "salesValue": 200000,
     "recordDate": "2022-11-20",
     "salesDesc": "世界累計20万部突破",
     "sourceDesc": "[メディアワークス文庫公式Twitter](https://twitter.com/mwbunko/status/1594133426273230851)",
     "isbn": "4049127369"
-  },
-  {
-    "title": "神達に拾われた男",
-    "salesValue": 3500000,
-    "recordDate": "2022-11-18",
-    "salesDesc": "シリーズ累計350万部突破",
-    "sourceDesc": "[原作12巻帯](https://firecross.jp/info/753)",
-    "isbn": "4798615099"
   },
   {
     "title": "わたし、二番目の彼女でいいから。",
@@ -182,5 +214,13 @@
     "salesDesc": "シリーズ累計20万部突破（紙・電子の合算）（2022年9月）",
     "sourceDesc": "[『サイレント・ウィッチ』公式Twitter](https://twitter.com/the_SilentWitch/status/1596339482609225729)",
     "isbn": "4040740351"
+  },
+  {
+    "title": "とんでもスキルで異世界放浪メシ",
+    "salesValue": 4500000,
+    "recordDate": "2022-10-29",
+    "salesDesc": "シリーズ累計450万部突破",
+    "sourceDesc": "[アニメ公式Twitter](https://twitter.com/tonsuki_anime/status/1586191098367680513)",
+    "isbn": "4865541675"
   }
 ]
