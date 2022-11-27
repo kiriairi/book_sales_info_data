@@ -1321,6 +1321,12 @@
         "salesDesc": "シリーズ累計65万部突破",
         "salesValue": 650000,
         "sourceDesc": "book-rank.net"
+      },
+      {
+        "salesValue": 6000000,
+        "recordDate": "2022-02-18",
+        "salesDesc": "シリーズ累計600万部突破(電子書籍を含む)",
+        "sourceDesc": "<a href=\"https://twitter.com/FlyingDogInc/status/1494509513260474371\">フライングドッグTwitter</a>、<a href=\"http://www.tobooks.jp/booklove/\">「本好きの下剋上～司書になるためには手段を選んでいられません～」特設サイト</a>"
       }
     ],
     "reprintRecords": [
