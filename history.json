@@ -2807,6 +2807,12 @@
         "salesDesc": "シリーズ累計100万部突破",
         "salesValue": 1000000,
         "sourceDesc": "book-rank.net"
+      },
+      {
+        "salesValue": 3000000,
+        "recordDate": "2022-02-07",
+        "salesDesc": "シリーズ累計300万部突破",
+        "sourceDesc": "<a href=\"https://twitter.com/animatemito/status/1490556086495358978\">コミカライズ8巻帯裏</a>"
       }
     ],
     "reprintRecords": []
@@ -2849,7 +2855,14 @@
   },
   {
     "isbn": "4883817555",
-    "salesRecords": [],
+    "salesRecords": [
+      {
+        "salesValue": 3000000,
+        "recordDate": "2021-01-27",
+        "salesDesc": "累計300万部突破",
+        "sourceDesc": "<a href=\"https://twitter.com/momiyama2019/status/1354095594793394176\">モミー【少年ジャンプ＋編集】Twitter</a>"
+      }
+    ],
     "reprintRecords": []
   },
   {
