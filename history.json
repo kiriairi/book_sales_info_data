@@ -479,6 +479,12 @@
         "salesDesc": "シリーズ累計75万部突破",
         "salesValue": 750000,
         "sourceDesc": "book-rank.net"
+      },
+      {
+        "salesValue": 15000000,
+        "recordDate": "2021-11-18",
+        "salesDesc": "シリーズ累計1500万部突破",
+        "sourceDesc": "<a href=\"https://twitter.com/NaMelanza/status/1461179709610291206\">スクウェア・エニックス版コミカライズ9巻帯</a>"
       }
     ],
     "reprintRecords": []
