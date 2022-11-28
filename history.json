@@ -2414,6 +2414,12 @@
         "salesDesc": "シリーズ累計25万部突破",
         "salesValue": 250000,
         "sourceDesc": "book-rank.net"
+      },
+      {
+        "salesValue": 3500000,
+        "recordDate": "2021-06-30",
+        "salesDesc": "シリーズ累計350万部突破※2021年6月現在・電子書籍含む",
+        "sourceDesc": "コミカライズ8巻帯"
       }
     ],
     "reprintRecords": []
@@ -2586,6 +2592,12 @@
         "salesDesc": "シリーズ累計70万部突破",
         "salesValue": 700000,
         "sourceDesc": "book-rank.net"
+      },
+      {
+        "salesValue": 3300000,
+        "recordDate": "2022-02-23",
+        "salesDesc": "シリーズ累計330万部突破",
+        "sourceDesc": "コミカライズ12巻帯"
       }
     ],
     "reprintRecords": []
@@ -3035,6 +3047,12 @@
         "salesDesc": "シリーズ累計80万部突破",
         "salesValue": 800000,
         "sourceDesc": "book-rank.net"
+      },
+      {
+        "salesValue": 2900000,
+        "recordDate": "2022-04-01",
+        "salesDesc": "シリーズ累計290万部突破(電子版含む)",
+        "sourceDesc": "コミカライズ14巻帯"
       }
     ],
     "reprintRecords": []
