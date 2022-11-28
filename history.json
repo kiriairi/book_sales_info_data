@@ -1243,6 +1243,12 @@
         "salesDesc": "シリーズ累計200万部突破",
         "salesValue": 2000000,
         "sourceDesc": "book-rank.net"
+      },
+      {
+        "salesValue": 6000000,
+        "recordDate": "2022-02-21",
+        "salesDesc": "シリーズ累計600万部突破",
+        "sourceDesc": "<a href=\"https://twitter.com/comic_alive/status/1495684719408730113\">月刊コミックアライブTwitter</a>"
       }
     ],
     "reprintRecords": []
