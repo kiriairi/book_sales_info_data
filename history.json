@@ -4913,7 +4913,14 @@
   },
   {
     "isbn": "4434187279",
-    "salesRecords": [],
+    "salesRecords": [
+      {
+        "salesValue": 1930000,
+        "recordDate": "2022-02-17",
+        "salesDesc": "累計193万部(電子含む)",
+        "sourceDesc": "<a href=\"https://www.amazon.co.jp/dp/4434299905\">原作20巻帯</a>"
+      }
+    ],
     "reprintRecords": []
   },
   {
@@ -4984,6 +4991,12 @@
         "salesDesc": "シリーズ累計20万部突破",
         "salesValue": 200000,
         "sourceDesc": "book-rank.net"
+      },
+      {
+        "salesValue": 1900000,
+        "recordDate": "2021-12-24",
+        "salesDesc": "シリーズ累計190万部突破(※電子版含む)",
+        "sourceDesc": "コミカライズ8巻帯"
       }
     ],
     "reprintRecords": [
@@ -5087,6 +5100,12 @@
         "salesDesc": "コミックス累計45万部突破",
         "salesValue": 450000,
         "sourceDesc": "book-rank.net"
+      },
+      {
+        "salesValue": 1800000,
+        "recordDate": "2022-03-25",
+        "salesDesc": "コミックス累計180万部突破※紙本+電子書籍の合算。2022年3月現在。",
+        "sourceDesc": "<a href=\"https://twitter.com/koxHhDrnIZIMYJZ/status/1507310115137142784\">コミカライズ10巻帯</a>"
       }
     ],
     "reprintRecords": []
@@ -5159,6 +5178,12 @@
         "salesDesc": "シリーズ累計10万部突破",
         "salesValue": 100000,
         "sourceDesc": "book-rank.net"
+      },
+      {
+        "salesValue": 1800000,
+        "recordDate": "2021-12-14",
+        "salesDesc": "シリーズ累計180万部突破",
+        "sourceDesc": "コミカライズ7巻帯"
       }
     ],
     "reprintRecords": [
@@ -5278,6 +5303,12 @@
         "salesDesc": "累計12万部突破",
         "salesValue": 120000,
         "sourceDesc": "book-rank.net"
+      },
+      {
+        "salesValue": 1800000,
+        "recordDate": "2021-03-05",
+        "salesDesc": "シリーズ累計180万部突破",
+        "sourceDesc": "コミカライズ4巻帯"
       }
     ],
     "reprintRecords": [
@@ -5423,6 +5454,12 @@
         "salesDesc": "100万部突破",
         "salesValue": 1000000,
         "sourceDesc": "book-rank.net"
+      },
+      {
+        "salesValue": 1700000,
+        "recordDate": "2021-08-11",
+        "salesDesc": "累計170万部突破",
+        "sourceDesc": "<a href=\"https://twitter.com/shinchobunkonex/status/1425296835359350788\">原作「久遠の檻」帯</a>"
       }
     ],
     "reprintRecords": [
@@ -5771,6 +5808,12 @@
         "salesDesc": "シリーズ累計10万部突破（紙+電子）",
         "salesValue": 100000,
         "sourceDesc": "book-rank.net"
+      },
+      {
+        "salesValue": 1500000,
+        "recordDate": "2022-03-23",
+        "salesDesc": "シリーズ累計150万部(紙+電子)突破",
+        "sourceDesc": "コミカライズ11巻帯、原作9巻帯"
       }
     ],
     "reprintRecords": [
@@ -6003,6 +6046,12 @@
         "salesDesc": "累計10万部突破（※電子版含む）",
         "salesValue": 100000,
         "sourceDesc": "book-rank.net"
+      },
+      {
+        "salesValue": 1500000,
+        "recordDate": "2021-12-09",
+        "salesDesc": "シリーズ累計150万部突破(原作小説・電子版含む)",
+        "sourceDesc": "<a href=\"https://twitter.com/shonen_sirius/status/1468762407543754753\">コミカライズ8巻帯</a>"
       }
     ],
     "reprintRecords": []
@@ -6021,6 +6070,12 @@
         "salesDesc": "シリーズ累計40万部",
         "salesValue": 400000,
         "sourceDesc": "book-rank.net"
+      },
+      {
+        "salesValue": 1500000,
+        "recordDate": "2021-11-25",
+        "salesDesc": "コミックス累計150万部突破※紙本+電子合算／2021年11月現在",
+        "sourceDesc": "コミカライズ4巻帯"
       }
     ],
     "reprintRecords": []
@@ -6057,6 +6112,12 @@
         "salesDesc": "シリーズ累計15万部突破",
         "salesValue": 150000,
         "sourceDesc": "book-rank.net"
+      },
+      {
+        "salesValue": 1500000,
+        "recordDate": "2021-10-07",
+        "salesDesc": "シリーズ累計150万部突破",
+        "sourceDesc": "コミカライズ6巻帯"
       }
     ],
     "reprintRecords": []
@@ -6075,6 +6136,12 @@
         "salesDesc": "シリーズ累計60万部突破（紙+電子）",
         "salesValue": 600000,
         "sourceDesc": "book-rank.net"
+      },
+      {
+        "salesValue": 1500000,
+        "recordDate": "2021-07-14",
+        "salesDesc": "シリーズ累計150万部突破(紙+電子)",
+        "sourceDesc": "<a href=\"https://comic-gardo.com/episode/10834108156661709946\">コミックガルド</a>"
       }
     ],
     "reprintRecords": []
@@ -6093,6 +6160,12 @@
         "salesDesc": "シリーズ累計130万部突破",
         "salesValue": 1300000,
         "sourceDesc": "book-rank.net"
+      },
+      {
+        "salesValue": 1500000,
+        "recordDate": "2019-12-24",
+        "salesDesc": "シリーズ累計150万部突破",
+        "sourceDesc": "原作わたしを殺したお人形帯"
       }
     ],
     "reprintRecords": []
