@@ -12354,6 +12354,12 @@
         "salesDesc": "シリーズ累計30万部突破",
         "salesValue": 300000,
         "sourceDesc": "book-rank.net"
+      },
+      {
+        "salesValue": 600000,
+        "recordDate": "2021-06-17",
+        "salesDesc": "シリーズ累計60万部突破",
+        "sourceDesc": "<a href=\"https://twitter.com/kadokawabooks/status/1405452299523162112\">カドカワBOOKS編集部Twitter</a>"
       }
     ],
     "reprintRecords": [
@@ -18336,7 +18342,14 @@
   },
   {
     "isbn": "4757571909",
-    "salesRecords": [],
+    "salesRecords": [
+      {
+        "salesValue": 100000,
+        "recordDate": "2022-04-19",
+        "salesDesc": "電子含み累計10万部突破",
+        "sourceDesc": "<a href=\"https://twitter.com/zatoukibi/status/1516366836535021573\">コミカライズ作者Twitter</a>"
+      }
+    ],
     "reprintRecords": []
   },
   {
