@@ -160,6 +160,14 @@
     "isbn": "4049123967"
   },
   {
+    "title": "探偵はもう、死んでいる。",
+    "salesValue": 1000000,
+    "recordDate": "2022-07-29",
+    "salesDesc": "シリーズ累計100万部突破（電子書籍含む）",
+    "sourceDesc": "[『探偵はもう、死んでいる。』公式Twitter](https://twitter.com/tanteiwamou_/status/1552972704852180992)",
+    "isbn": "4040641965"
+  },
+  {
     "title": "転生貴族の異世界冒険録　～自重を知らない神々の使徒～",
     "salesValue": 2500000,
     "recordDate": "2022-08-05",
@@ -502,5 +510,13 @@
     "salesDesc": "シリーズ累計100万部突破",
     "sourceDesc": "[アニメ放送に伴う新しい原作の帯](https://twitter.com/futabamurasaki/status/1602236965834747904/photo/1)",
     "isbn": "4815602484"
-   }
+   },
+   {
+    "title": "淡海乃海 水面が揺れる時　～三英傑に嫌われた不運な男、朽木基綱の逆襲～",
+    "salesValue": 1000000,
+    "recordDate": "2022-12-12",
+    "salesDesc": "シリーズ累計100万部突破（電子書籍含む）",
+    "sourceDesc": "[原作14巻 あらすじ](https://tobooks.shop-pro.jp/?pid=171178009)",
+    "isbn": "4864726272"
+  }
 ]
