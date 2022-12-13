@@ -14449,6 +14449,18 @@
         "salesDesc": "累計10万部突破",
         "salesValue": 100000,
         "sourceDesc": "book-rank.net"
+      },
+      {
+        "salesValue": 400000,
+        "recordDate": "2021-06-24",
+        "salesDesc": "シリーズ累計40万部突破",
+        "sourceDesc": "<a href=\"https://twitter.com/tenshisama_GA/status/1407987107822510080\">原作5巻帯</a>"
+      },
+      {
+        "salesValue": 500000,
+        "recordDate": "2022-01-04",
+        "salesDesc": "シリーズ累計50万部突破",
+        "sourceDesc": "[アニメ化記事](https://natalie.mu/comic/news/460392)"
       }
     ],
     "reprintRecords": [
