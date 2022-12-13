@@ -10900,6 +10900,24 @@
         "salesDesc": "累計3万部突破",
         "salesValue": 30000,
         "sourceDesc": "book-rank.net"
+      },
+      {
+        "salesValue": 750000,
+        "recordDate": "2022-02-21",
+        "salesDesc": "シリーズ累計75万部突破(電子書籍を含む)",
+        "sourceDesc": "<a href=\"https://tobooks.shop-pro.jp/?pid=165201664\">原作15巻あらすじ・内容</a>"
+      },
+      {
+        "salesValue": 1000000,
+        "recordDate": "2022-11-30",
+        "salesDesc": "シリーズ累計100万部突破",
+        "sourceDesc": "[TOブックス 公式Twitter](https://twitter.com/TOBOOKS/status/1597900802500136960)"
+      },
+      {
+        "salesValue": 200000,
+        "recordDate": "2022-11-30",
+        "salesDesc": "シリーズ累計20万部突破",
+        "sourceDesc": "[TOブックス 公式Twitter](https://twitter.com/TOBOOKS/status/1597900825321295872)"
       }
     ],
     "reprintRecords": []
