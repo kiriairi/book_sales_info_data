@@ -18502,7 +18502,14 @@
   },
   {
     "isbn": "4049130130",
-    "salesRecords": [],
+    "salesRecords": [
+      {
+        "salesValue": 100000,
+        "recordDate": "2021-05-11",
+        "salesDesc": "シリーズ累計10万部突破",
+        "sourceDesc": "<a href=\"https://twitter.com/bunko_dengeki/status/1392028336054947841\">電撃文庫Twitter</a>"
+      }
+    ],
     "reprintRecords": [
       {
         "recordDate": "2021-05-11",
