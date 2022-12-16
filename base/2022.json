@@ -526,5 +526,13 @@
     "salesDesc": "シリーズ累計550万部突破（コミック・電子書籍の数字を含む）",
     "sourceDesc": "[『わたしの幸せな結婚』公式Twitter](https://twitter.com/watashino_info/status/1602951538925780993)",
     "isbn": "4040730194"
-  }
+  },
+  {
+    "title": "豚のレバーは加熱しろ",
+    "salesValue": 250000,
+    "recordDate": "2022-12-16",
+    "salesDesc": "シリーズ累計25万部突破",
+    "sourceDesc": "[電撃文庫公式Twitter](https://twitter.com/bunko_dengeki/status/1603679111775338496)",
+    "isbn": "4049130130"
+  {
 ]
