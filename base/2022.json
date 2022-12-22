@@ -520,6 +520,30 @@
     "isbn": "4864726272"
   },
   {
+    "title": "ギフト争奪戦に乗り遅れたら、ラストワン賞で最強スキルを手に入れた",
+    "salesValue": 30000,
+    "recordDate": "2022-12-13",
+    "salesDesc": "累計3万部突破（電子含む）",
+    "sourceDesc": "[文庫版第1巻帯](https://www.alphapolis.co.jp/book/detail/1045331/8931)",
+    "isbn": "4434313207"
+  },
+  {
+    "title": "異世界召喚されました……断る！",
+    "salesValue": 30000,
+    "recordDate": "2022-12-13",
+    "salesDesc": "累計3万部突破（電子含む）",
+    "sourceDesc": "[文庫版第1巻帯](https://www.alphapolis.co.jp/book/detail/1045615/8930)",
+    "isbn": "4434313215"
+  },
+  {
+    "title": "解体の勇者の成り上がり冒険譚",
+    "salesValue": 40000,
+    "recordDate": "2022-12-13",
+    "salesDesc": "累計4万部突破（電子含む）",
+    "sourceDesc": "[文庫版第3巻帯](https://www.alphapolis.co.jp/book/detail/1045683/8929)",
+    "isbn": "4434313223"
+  },
+  {
     "title": "わたしの幸せな結婚",
     "salesValue": 5500000,
     "recordDate": "2022-12-14",
@@ -534,5 +558,29 @@
     "salesDesc": "シリーズ累計25万部突破",
     "sourceDesc": "[電撃文庫公式Twitter](https://twitter.com/bunko_dengeki/status/1603679111775338496)",
     "isbn": "4049130130"
+  },
+  {
+    "title": "さようなら竜生、こんにちは人生",
+    "salesValue": 920000,
+    "recordDate": "2022-12-16",
+    "salesDesc": "シリーズ累計92万部突破（電子含む）",
+    "sourceDesc": "[アルファポリス公式Twitter、23巻帯](https://twitter.com/alpha_polis/status/1603642851165732864)",  
+    "isbn": "4049130130"
+  },
+  {
+    "title": "最強職《竜騎士》から初級職《運び屋》になったのに、なぜか勇者達から頼られてます",
+    "salesValue": 1400000,
+    "recordDate": "2022-12-19",
+    "salesDesc": "シリーズ累計140万部突破（電子含む）",
+    "sourceDesc": "[コミカライズ11巻 あらすじ・編集者からのおすすめ情報](https://www.shogakukan.co.jp/books/09851450)",
+    "isbn": "4094611088"
+  },
+  {
+    "title": "博多豚骨ラーメンズ",
+    "salesValue": 400000,
+    "recordDate": "2022-12-21",
+    "salesDesc": "シリーズ累計40万部突破",
+    "sourceDesc": "[原作12巻 あらすじ](https://www.kadokawa.co.jp/product/322210000350/)",
+    "isbn": "404866316X"
   }
 ]
