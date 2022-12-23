@@ -7591,6 +7591,12 @@
         "salesDesc": "シリーズ累計15万部突破",
         "salesValue": 150000,
         "sourceDesc": "book-rank.net"
+      },
+      {
+        "salesValue": 1200000,
+        "recordDate": "2022-01-12",
+        "salesDesc": "シリーズ累計120万部突破※電子書籍含む",
+        "sourceDesc": "<a href=\"https://twitter.com/amauisiroichi/status/1480926737194438656\">原作者Twitter</a>、コミカライズ9巻帯"
       }
     ],
     "reprintRecords": []
@@ -14854,7 +14860,14 @@
   },
   {
     "isbn": "404866316X",
-    "salesRecords": [],
+    "salesRecords": [
+      {
+        "salesValue": 370000,
+        "recordDate": "2018-11-25",
+        "salesDesc": "累計37万部突破",
+        "sourceDesc": "メディアワークス文庫Twitter"
+      }
+    ],
     "reprintRecords": []
   },
   {
@@ -18508,6 +18521,12 @@
         "recordDate": "2021-05-11",
         "salesDesc": "シリーズ累計10万部突破",
         "sourceDesc": "<a href=\"https://twitter.com/bunko_dengeki/status/1392028336054947841\">電撃文庫Twitter</a>"
+      },
+      {
+        "salesValue": 250000,
+        "recordDate": "2022-12-16",
+        "salesDesc": "シリーズ累計25万部突破",
+        "sourceDesc": "[電撃文庫公式Twitter](https://twitter.com/bunko_dengeki/status/1603679111775338496)"
       }
     ],
     "reprintRecords": [
