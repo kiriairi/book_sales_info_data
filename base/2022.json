@@ -400,6 +400,14 @@
     "isbn": "4049133822"
   },
   {
+    "title": "出来損ないと呼ばれた元英雄は、実家から追放されたので好き勝手に生きることにした",
+    "salesValue": 700000,
+    "recordDate": "2022-11-10",
+    "salesDesc": "シリーズ累計70万部突破（※電子書籍含む）",
+    "sourceDesc": "[コミカライズ7巻 あらすじ・内容](https://tobooks.shop-pro.jp/?pid=171180048)",
+    "isbn": "4864727392"
+  },
+  {
     "title": "転生賢者の異世界ライフ　～第二の職業を得て、世界最強になりました～",
     "salesValue": 6500000,
     "recordDate": "2022-11-11",
@@ -582,5 +590,30 @@
     "salesDesc": "シリーズ累計40万部突破",
     "sourceDesc": "[原作12巻 あらすじ](https://www.kadokawa.co.jp/product/322210000350/)",
     "isbn": "404866316X"
+  },
+  {
+    "title": "白豚貴族ですが前世の記憶が生えたのでひよこな弟育てます",
+    "salesValue": 300000,
+    "recordDate": "2022-12-26",
+    "salesDesc": "シリーズ累計30万部突破（電子含む）",
+    "sourceDesc": "[原作9巻 あらすじ・内容](https://tobooks.shop-pro.jp/?pid=171981707)",
+    "isbn": "4864728984"
+  },
+  {
+    "title": "没落予定の貴族だけど、暇だったから魔法を極めてみた",
+    "salesValue": 550000,
+    "recordDate": "2022-12-26",
+    "salesDesc": "シリーズ累計55万部突破（電子書籍を含む）",
+    "sourceDesc": "[コミカライズ5巻 あらすじ・内容](https://tobooks.shop-pro.jp/?pid=171982607)",
+    "isbn": "4864729212"
+  },
+  {
+    "title": "ティアムーン帝国物語　～断頭台から始まる、姫の転生逆転ストーリー～",
+    "salesValue": 1000000,
+    "recordDate": "2022-12-26",
+    "salesDesc": "シリーズ累計100万部突破（電子書籍を含む）",
+    "sourceDesc": "[原作12巻 あらすじ・内容](https://tobooks.shop-pro.jp/?pid=169436163)",
+    "isbn": "4864728151"
   }
+   
 ]
