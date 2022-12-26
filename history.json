@@ -9754,6 +9754,12 @@
         "salesDesc": "累計10万部突破（電子書籍を含む）",
         "salesValue": 100000,
         "sourceDesc": "book-rank.net"
+      },
+      {
+        "salesValue": 800000,
+        "recordDate": "2022-04-28",
+        "salesDesc": "シリーズ累計80万部突破(紙+電子)",
+        "sourceDesc": "<a href=\"https://twitter.com/TOBOOKS/status/1519640129262202888\">原作10巻帯</a>"
       }
     ],
     "reprintRecords": [
@@ -12166,6 +12172,12 @@
         "salesDesc": "シリーズ累計20万部突破（電子書籍を含む）",
         "salesValue": 200000,
         "sourceDesc": "book-rank.net"
+      },
+      {
+        "salesValue": 600000,
+        "recordDate": "2022-04-28",
+        "salesDesc": "シリーズ累計60万部突破(電子書籍を含む)",
+        "sourceDesc": "<a href=\"https://twitter.com/TOBOOKS/status/1519640187638525952\">コミカライズ6巻帯</a>"
       }
     ],
     "reprintRecords": []
@@ -15505,6 +15517,12 @@
         "salesDesc": "シリーズ累計部数10万部突破（電子書籍含む）",
         "salesValue": 100000,
         "sourceDesc": "book-rank.net"
+      },
+      {
+        "salesValue": 300000,
+        "recordDate": "2022-01-03",
+        "salesDesc": "シリーズ累計30万部突破(電子書籍を含む)",
+        "sourceDesc": "<a href=\"https://tobooks.shop-pro.jp/?pid=165712053\">コミカライズ4巻あらすじ・内容</a>"
       }
     ],
     "reprintRecords": [
@@ -17843,6 +17861,12 @@
         "salesDesc": "累計10万部突破（電子書籍を含む）",
         "salesValue": 100000,
         "sourceDesc": "book-rank.net"
+      },
+      {
+        "salesValue": 150000,
+        "recordDate": "2022-02-21",
+        "salesDesc": "累計15万部突破(電子書籍を含む)",
+        "sourceDesc": "<a href=\"https://tobooks.shop-pro.jp/?pid=166409258\">原作7巻あらすじ・内容</a>"
       }
     ],
     "reprintRecords": [
