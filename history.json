@@ -7128,6 +7128,12 @@
         "salesDesc": "ライトノベル、マンガなどの累計発行部数20万部以上",
         "salesValue": 200000,
         "sourceDesc": "book-rank.net"
+      },
+      {
+        "salesValue": 1300000,
+        "recordDate": "2021-11-17",
+        "salesDesc": "シリーズ累計130万部突破(※電子含む)",
+        "sourceDesc": "<a href=\"https://twitter.com/monster_futaba/status/1460834865381736449\">コミカライズ8巻帯</a>"
       }
     ],
     "reprintRecords": []
