@@ -9022,6 +9022,12 @@
         "salesDesc": "累計15万部突破",
         "salesValue": 150000,
         "sourceDesc": "book-rank.net"
+      },
+      {
+        "salesValue": 1000000,
+        "recordDate": "2021-01-22",
+        "salesDesc": "シリーズ累計100万部突破",
+        "sourceDesc": "<a href=\"https://www.kadokawa.co.jp/product/321909000343/\">原作4巻あらすじ・内容(KADOKAWA公式サイト)</a>"
       }
     ],
     "reprintRecords": []
@@ -13485,6 +13491,12 @@
         "salesDesc": "シリーズ累計10万部突破",
         "salesValue": 100000,
         "sourceDesc": "book-rank.net"
+      },
+      {
+        "salesValue": 500000,
+        "recordDate": "2021-08-09",
+        "salesDesc": "シリーズ累計50万部突破",
+        "sourceDesc": "<a href=\"https://twitter.com/imouza_PR/status/1424701868450607110\">「友達の妹が俺にだけウザい」公式Twitter</a>"
       }
     ],
     "reprintRecords": [
