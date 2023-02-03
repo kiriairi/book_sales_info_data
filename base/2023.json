@@ -14,5 +14,13 @@
     "salesDesc": "シリーズ累計60万部突破",
     "sourceDesc": "[GA文庫 公式Twitter](https://twitter.com/GA_bunko/status/1610987992528879618)",
     "isbn": "4815601879"
+   },
+   {
+    "title": "スパイ教室",
+    "salesValue": 1000000,
+    "recordDate": "2023-02-03",
+    "salesDesc": "累計発行部数が100万部を突破",
+    "sourceDesc": "[公式Twitter](https://twitter.com/spy_tomoshibi/status/1621433563848777731)",
+    "isbn": "4040734807"
    }
 ]
