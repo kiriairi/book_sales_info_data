@@ -78,7 +78,15 @@
     "salesDesc": "シリーズ累計1800万部突破",
     "sourceDesc": "ビッグガンガン版コミカライズ10巻帯（[作者のTwitter](https://twitter.com/NaMelanza/status/1537340231065948160)）",
     "isbn": "4072981982"
-  }, 
+  },
+  {
+    "title": "義妹生活",
+    "salesValue": 300000,
+    "recordDate": "2022-06-18",
+    "salesDesc": "シリーズ累計30万部突破（電子書籍含む）",
+    "sourceDesc": "[公式Twitter](https://twitter.com/gimaiseikatsu/status/1538114305542987777)",
+    "isbn": "4040647262"
+  },
   {
     "title": "継母の連れ子が元カノだった",
     "salesValue": 650000,
