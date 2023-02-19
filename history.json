@@ -157,6 +157,12 @@
         "salesDesc": "シリーズ累計300万部突破",
         "salesValue": 3000000,
         "sourceDesc": "book-rank.net"
+      },
+      {
+        "salesValue": 30000000,
+        "recordDate": "2022-01-17",
+        "salesDesc": "シリーズ累計3000万部突破",
+        "sourceDesc": "株式会社講談社プレリリース「<a href=\"https://prtimes.jp/main/html/rd/p/000003898.000001719.html\">ついにシリーズ累計3,000万部突破の『転スラ』とＪリーグのコラボが決定！！</a>」"
       }
     ],
     "reprintRecords": [
