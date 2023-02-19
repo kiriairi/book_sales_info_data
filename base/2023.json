@@ -16,11 +16,27 @@
     "isbn": "4815601879"
    },
    {
+    "title": "猫と竜",
+    "salesValue": 620000,
+    "recordDate": "2023-01-20",
+    "salesDesc": "シリーズ累計62万部突破※電子書籍含む",
+    "sourceDesc": "[宝島社単行本公式Twitter（最新刊の帯）](https://twitter.com/konorano_jp/status/1616376178310524929)",
+    "isbn": "4800253012"
+   },
+   {
     "title": "スパイ教室",
     "salesValue": 1000000,
     "recordDate": "2023-02-03",
     "salesDesc": "累計発行部数が100万部を突破",
     "sourceDesc": "[公式Twitter](https://twitter.com/spy_tomoshibi/status/1621433563848777731)",
     "isbn": "4040734807"
-   }
+   },
+   {
+    "title": "転生して田舎でスローライフをおくりたい",
+    "salesValue": 1000000,
+    "recordDate": "2023-02-06",
+    "salesDesc": "シリーズ累計100万部突破",
+    "sourceDesc": "[「このマンガがすごい！」編集部Twitter](https://twitter.com/konomanga_jp/status/1622512493477384195)",
+    "isbn": "4800259851"
+  }
 ]
