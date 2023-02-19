@@ -17206,6 +17206,18 @@
         "salesDesc": "第1巻累計5万部突破（※紙本書籍と電子書籍の合算数字となります。）",
         "salesValue": 50000,
         "sourceDesc": "book-rank.net"
+      },
+      {
+        "salesValue": 200000,
+        "recordDate": "2022-01-29",
+        "salesDesc": "1～4巻累計20万部突破※電子書籍含む。",
+        "sourceDesc": "<a href=\"https://twitter.com/gimaiseikatsu/status/1487372448093773824\">『義妹生活』公式Twitter</a>"
+      },
+      {
+        "salesValue": 300000,
+        "recordDate": "2022-06-18",
+        "salesDesc": "シリーズ累計30万部突破（電子書籍含む）",
+        "sourceDesc": "[公式Twitter](https://twitter.com/gimaiseikatsu/status/1538114305542987777)"
       }
     ],
     "reprintRecords": []
