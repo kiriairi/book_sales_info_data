@@ -70,5 +70,21 @@
     "salesDesc": "シリーズ累計発行部数4000万部突破（国内3500万部、海外500万部）",
     "sourceDesc": "アニメ公式[サイト記事](https://www.ten-sura.com/news/anime/news/post/8426) [Twitter](https://twitter.com/ten_sura_anime/status/1627158215334174721)",
     "isbn": "4896374592"
+  },
+  {
+    "title": "スパイ教室",
+    "salesValue": 1100000,
+    "recordDate": "2023-02-24",
+    "salesDesc": "シリーズ累計110万部突破",
+    "sourceDesc": "[アニメ公式Twitter](https://twitter.com/spyroom_anime/status/1628775831228264450)",
+    "isbn": "4040734807"
+  },
+  {
+    "title": "お隣の天使様にいつの間にか駄目人間にされていた件",
+    "salesValue": 1500000,
+    "recordDate": "2023-02-24",
+    "salesDesc": "シリーズ累計150万部突破",
+    "sourceDesc": "[公式Twitter](https://twitter.com/tenshisama_GA/status/1629074818036563968)",
+    "isbn": "4815602484"
   }
 ]
