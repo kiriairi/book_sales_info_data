@@ -13972,6 +13972,12 @@
         "salesDesc": "シリーズ累計20万部突破",
         "salesValue": 200000,
         "sourceDesc": "book-rank.net"
+      },
+      {
+        "salesValue": 450000,
+        "recordDate": "2022-04-20",
+        "salesDesc": "シリーズ累計45万部突破※紙本と電子書籍の合算数字となります。2022年3月現在",
+        "sourceDesc": "原作9巻帯"
       }
     ],
     "reprintRecords": [
