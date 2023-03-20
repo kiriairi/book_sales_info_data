@@ -8545,6 +8545,12 @@
         "salesDesc": "25万部突破",
         "salesValue": 250000,
         "sourceDesc": "book-rank.net"
+      },
+      {
+        "salesValue": 1000000,
+        "recordDate": "2022-02-17",
+        "salesDesc": "シリーズ累計100万部突破",
+        "sourceDesc": "株式会社マイクロマガジン社プレリリース「<a href=\"https://prtimes.jp/main/html/rd/p/000000884.000048095.html\">シリーズ累計100万部突破！スキル強奪系ダークファンタジーシリーズ文庫版最新刊！『暴食のベルセルク～俺だけレベルという概念を突破して最強～ ２』が発売</a>」"
       }
     ],
     "reprintRecords": []
@@ -14332,7 +14338,14 @@
   },
   {
     "isbn": "4040734769",
-    "salesRecords": [],
+    "salesRecords": [
+      {
+        "salesValue": 180000,
+        "recordDate": "2022-02-02",
+        "salesDesc": "シリーズ累計18万部突破(紙・電子合算)",
+        "sourceDesc": "<a href=\"https://twitter.com/Ume_boC/status/1488764833462099968\">コミカライズ3巻帯</a>"
+      }
+    ],
     "reprintRecords": []
   },
   {
