@@ -94,5 +94,21 @@
     "salesDesc": "シリーズ累計70万部突破 ※紙本と電子書籍の合算数字となります。2023年3月現在",
     "sourceDesc": "[原作10巻帯](https://www.kadokawa.co.jp/product/322205000951/)",
     "isbn": "4040733185"
+  },
+  {
+    "title": "暴食のベルセルク　～俺だけレベルという概念を突破する～",
+    "salesValue": 1400000,
+    "recordDate": "2023-03-16",
+    "salesDesc": "シリーズ発行累計140万部",
+    "sourceDesc": "[アニメ ティザーPVの紹介欄](https://youtu.be/IxIxGQ7tJ_s)",
+    "isbn": "4896376722"
+  },
+  {
+    "title": "転生王女と天才令嬢の魔法革命",
+    "salesValue": 600000,
+    "recordDate": "2023-03-16",
+    "salesDesc": "シリーズ累計60万部突破(コミックス、電子含む。2023年3月時点)",
+    "sourceDesc": "[ドラゴンマガジン5月号(ファンタジア文庫公式Twitter)](https://twitter.com/fantasia_bunko/status/1636306331627044866)",
+    "isbn": "4040734769"
   }
 ]
