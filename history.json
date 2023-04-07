@@ -11920,6 +11920,12 @@
         "salesDesc": "シリーズ累計21万部突破",
         "salesValue": 210000,
         "sourceDesc": "book-rank.net"
+      },
+      {
+        "salesValue": 650000,
+        "recordDate": "2022-04-28",
+        "salesDesc": "シリーズ累計65万部突破",
+        "sourceDesc": "<a href=\"https://twitter.com/sawatari_kazami/status/1519632769567100930\">作者Twitter</a>"
       }
     ],
     "reprintRecords": [
