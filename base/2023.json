@@ -134,5 +134,45 @@
     "salesDesc": "シリーズ累計100万部突破（コミックス、電子含む）",
     "sourceDesc": "[著者Twitter](https://twitter.com/sawatari_kazami/status/1643207032328052738)",
     "isbn": "4094518231"
+  },
+  {
+    "title": "異世界のんびり農家",
+    "salesValue": 4000000,
+    "recordDate": "2023-04-28",
+    "salesDesc": "シリーズ累計400万部突破",
+    "sourceDesc": "[15巻の帯](https://www.kadokawa.co.jp/product/322212001193/)",
+    "isbn": "4047374334"
+  },
+  {
+    "title": "伝説シリーズ",
+    "salesValue": 900000,
+    "recordDate": "2023-05-16",
+    "salesDesc": "シリーズ累計90万部突破",
+    "sourceDesc": "[西尾維新公式Twitter](https://twitter.com/NISIOISIN_info/status/1658234551359995906)",
+    "isbn": "4065294223"
+  },
+  {
+    "title": "嘆きの亡霊は引退したい　～最弱ハンターによる最強パーティ育成術～",
+    "salesValue": 1000000,
+    "recordDate": "2023-05-18",
+    "salesDesc": "シリーズ累計100万部突破",
+    "sourceDesc": "[GCノベルズ公式Twitter](https://twitter.com/gcnovels/status/1659114097651138561)",
+    "isbn": "489637813"
+  },
+  {
+    "title": "転生王女と天才令嬢の魔法革命",
+    "salesValue": 700000,
+    "recordDate": "2023-05-19",
+    "salesDesc": "シリーズ発行累計70万部（コミックス、電子含む）",
+    "sourceDesc": "[ドラゴンマガジン 7月号](https://viewer-trial.bookwalker.jp/03/15/viewer.html?cid=f773f623-d690-4103-b2ed-101b89cdaf9d&cty=0)",
+    "isbn": "4040734769"
+  }, 
+  {
+    "title": "いのちの食べ方",
+    "salesValue": 100000,
+    "recordDate": "2023-05-24",
+    "salesDesc": "シリーズ発行累計10万部",
+    "sourceDesc": "[イラストレーターTwitter](https://twitter.com/lalalalack/status/1661193791049728000)",
+    "isbn": "4046824433"
   }
 ]
